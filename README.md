@@ -1,4 +1,4 @@
-# DataSciencejobsAnalysis
+# DataScienceSalaryAnalysis
 Salary Analysis and Visualization Dashboard
 Project Overview
 This project analyzes employment data using Tableau to create interactive visualizations that explore relationships between salary, job titles, experience levels, company locations, and employment types. The dashboard provides insights into global salary trends and employment patterns.
